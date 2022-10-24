@@ -17,7 +17,7 @@ int main() {
 	}
 	float n=y0-y;
 	if(n>c){
-	printf("%lf %lf\n y=%lf",x,y1,y1);}
+	printf("%lf %lf\ny=%lf",x,y1,y1);}
 	return 0;
 }
 
